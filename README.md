@@ -34,7 +34,7 @@ Started: 2026-07-10 08:35:50
 
 ## 📸 Screenshot
 
-![Port Scanner Output](Python-port-scanning.jpeg)
+![Port Scanner Output](Python-port-scanning. jpeg)
 Scan completed. 5 open ports found.
 
 ⚠️ Legal Disclaimer
