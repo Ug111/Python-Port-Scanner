@@ -33,7 +33,8 @@ Started: 2026-07-10 08:35:50
 [OPEN] Port 443 - HTTPS
 
 ## 📸 Screenshot
-![Port Scanner Output](Python-port-scanning.py.jpeg .jpeg)
+
+![Port Scanner Output](Python-port-scanning.py.jpeg)
 Scan completed. 5 open ports found.
 
 ⚠️ Legal Disclaimer
